@@ -26,7 +26,6 @@ local.properties
 *.zip
 # Eclipse #
 /.project
-/.settings
 .metadata
 bin/
 tmp/
@@ -35,7 +34,6 @@ tmp/
 *.swp
 *~.nib
 .settings/
-.loadpath
 .recommenders
 bin/**
 # Maven #
