@@ -45,6 +45,9 @@
             <resource>
                 <directory>${project.basedir}/src/main/resources</directory>
                 <filtering>true</filtering>
+                <excludes>
+                    <exclude>.idea/**</exclude>
+                </excludes>
             </resource>
         </resources>
 
