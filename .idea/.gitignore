@@ -33,9 +33,7 @@ tmp/
 *.bak
 *.swp
 *~.nib
-.settings/
 .recommenders
-bin/**
 # Maven #
 target/
 /.mvn
