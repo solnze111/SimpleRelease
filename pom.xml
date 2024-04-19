@@ -25,9 +25,9 @@
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:git@github.com:solnze111/SimpleRelease.git</connection>
-        <developerConnection>scm:git:git@github.com:solnze111/SimpleRelease.git</developerConnection>
-    <tag>SimpleRelease-1.0</tag>
+        <connection>scm:git:git@github.com:solnze111/HaupModulka.git</connection>
+        <developerConnection>scm:git:git@github.com:solnze111/HaupModulka.git</developerConnection>
+
   </scm>
 
     <dependencies>
